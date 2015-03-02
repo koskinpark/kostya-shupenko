@@ -4,7 +4,9 @@ session_start();
 
 function database_connect()
 {
-    require_once './connect.php';
+ 
+
+ require_once './connect.php';
 }
 
 mysql_query("set names 'utf8'");
