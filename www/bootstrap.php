@@ -4,7 +4,6 @@ session_start();
 
 function database_connect()
 {
-$qwe=123;
  require_once './connect.php';
 }
 
