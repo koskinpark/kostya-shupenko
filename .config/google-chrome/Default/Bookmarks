@@ -1,0 +1,45 @@
+{
+   "checksum": "e5aa371cf852e7f50c26054db9b4ba42",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13070106208647000",
+            "id": "5",
+            "meta_info": {
+               "stars.id": "ssc_df2c1bef7708c8a1",
+               "stars.imageData": "Cg5td2phSC0zdkNabWxZTRIlCh1odHRwczovL2kuaW1ndXIuY29tL0hDUUV1LnBuZxDiCRisBxpjCltodHRwOi8vdDMuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1RWajJXRTlZN3Z0cEphaDZqekRaSndOTWtROWQ4Wl81MGJBeTR3QU5UbWFqZlJ3eWxrEIMCGMMBIh8IARCDAhjDASDgLkIGEgSAAAAASgppbWFnZS9qcGVn",
+               "stars.isSynced": "true",
+               "stars.pageData": "EvsBVGhpcyB0dXRvcmlhbCBleHBsYWlucyBob3cgdG8gaW5zdGFsbCBBcGFjaGUsIGhvdyB0byBpbnN0YWxsIE15U1FMLCBob3cgdG8gY2hhbmdlIHRoZSByb290IE15U1FMIHBhc3N3b3JkLCBob3cgdG8gaW5zdGFsbCBQSFAsIGFuZCBob3cgdG8gc2VlIHdoYXQgbGlicmFyaWVzIGFyZSBhdmFpbGFibGUuIExBTVAgc3RhY2sgaXMgYSBncm91cCBvZiBvcGVuIHNvdXJjZSBzb2Z0d2FyZSB1c2VkIHRvIGdldCB3ZWIgc2VydmVycyB1cCBhbmQgcnUiDjI2QWptMnJPX3oxdHlN",
+               "stars.type": "2"
+            },
+            "name": "How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu | DigitalOcean",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu"
+         } ],
+         "date_added": "13070104715676615",
+         "date_modified": "13070106208647796",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13070104715676623",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "5",
+      "synced": {
+         "children": [  ],
+         "date_added": "13070104715676627",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

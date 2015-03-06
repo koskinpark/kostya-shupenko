@@ -1,0 +1,2183 @@
+compiz (core) - Info: Loading plugin: core
+compiz (core) - Info: Starting plugin: core
+compiz (core) - Info: Loading plugin: ccp
+compiz (core) - Info: Starting plugin: ccp
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity
+compiz (core) - Info: Loading plugin: composite
+compiz (core) - Info: Starting plugin: composite
+compiz (core) - Info: Loading plugin: opengl
+compiz (core) - Info: Unity is fully supported by your hardware.
+compiz (core) - Info: Unity is fully supported by your hardware.
+compiz (core) - Info: Starting plugin: opengl
+Compiz (opengl) - Info: GLX_EXT_buffer_age is supported
+compiz (core) - Info: Loading plugin: resize
+compiz (core) - Info: Starting plugin: resize
+compiz (core) - Info: Loading plugin: snap
+compiz (core) - Info: Starting plugin: snap
+compiz (core) - Info: Loading plugin: regex
+compiz (core) - Info: Starting plugin: regex
+compiz (core) - Info: Loading plugin: copytex
+compiz (core) - Info: Starting plugin: copytex
+compiz (core) - Info: Loading plugin: compiztoolbox
+compiz (core) - Info: Starting plugin: compiztoolbox
+compiz (core) - Info: Loading plugin: imgpng
+compiz (core) - Info: Starting plugin: imgpng
+compiz (core) - Info: Loading plugin: commands
+compiz (core) - Info: Starting plugin: commands
+compiz (core) - Info: Loading plugin: place
+compiz (core) - Info: Starting plugin: place
+compiz (core) - Info: Loading plugin: unitymtgrabhandles
+compiz (core) - Info: Starting plugin: unitymtgrabhandles
+compiz (core) - Info: Loading plugin: animation
+compiz (core) - Info: Starting plugin: animation
+compiz (core) - Info: Loading plugin: session
+compiz (core) - Info: Starting plugin: session
+compiz (core) - Info: Loading plugin: mousepoll
+compiz (core) - Info: Starting plugin: mousepoll
+compiz (core) - Info: Loading plugin: grid
+compiz (core) - Info: Starting plugin: grid
+compiz (core) - Info: Loading plugin: wall
+compiz (core) - Info: Starting plugin: wall
+compiz (core) - Info: Loading plugin: move
+compiz (core) - Info: Starting plugin: move
+compiz (core) - Info: Loading plugin: vpswitch
+compiz (core) - Info: Starting plugin: vpswitch
+compiz (core) - Info: Loading plugin: workarounds
+compiz (core) - Info: Starting plugin: workarounds
+compiz (core) - Info: Loading plugin: expo
+compiz (core) - Info: Starting plugin: expo
+compiz (core) - Info: Loading plugin: fade
+compiz (core) - Info: Starting plugin: fade
+compiz (core) - Info: Loading plugin: ezoom
+compiz (core) - Info: Starting plugin: ezoom
+compiz (core) - Info: Loading plugin: scale
+compiz (core) - Info: Starting plugin: scale
+compiz (core) - Info: Loading plugin: unityshell
+compiz (core) - Info: Starting plugin: unityshell
+WARN  2015-03-06 14:26:43 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.Shell' yet as we don't have a connection, waiting for it...
+WARN  2015-03-06 14:26:43 unity.debug.interface DebugDBusInterface.cpp:216 Unable to load entry point in libxpathselect: libxpathselect.so.1.4: cannot open shared object file: No such file or directory -- full D-Bus introspection will not be available
+WARN  2015-03-06 14:26:43 xim.controller XIMController.cpp:103 IBus natively supported.
+WARN  2015-03-06 14:26:43 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Launcher' yet as we don't have a connection, waiting for it...
+WARN  2015-03-06 14:26:43 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Dash' yet as we don't have a connection, waiting for it...
+WARN  2015-03-06 14:26:44 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.SessionManager.EndSessionDialog' yet as we don't have a connection, waiting for it...
+WARN  2015-03-06 14:26:44 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Session' yet as we don't have a connection, waiting for it...
+WARN  2015-03-06 14:26:44 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.ScreenSaver' yet as we don't have a connection, waiting for it...
+ERROR 2015-03-06 14:26:44 unity.glib.dbus.server GLibDBusServer.cpp:524 DBus name lost 'org.gnome.Shell'
+ERROR 2015-03-06 14:26:44 unity.glib.dbus.server GLibDBusServer.cpp:524 DBus name lost 'com.canonical.Unity'
+WARN  2015-03-06 14:27:11 unity.dash.gsettingsscopereader GSettingsScopes.cpp:108 Error fetching protocol metadata for scope: social.scope : Valid key file could not be found in search dirs
+
+(process:3118): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+1425630434087	addons.xpi	WARN	Add-on webapps-team@lists.launchpad.net is missing bootstrap method install
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000409!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+WARN  2015-03-06 14:27:39 unity.iconloader IconLoader.cpp:755 Unable to load icon file:/// at size -1x22: Can't open directory
+1425630495125	GMPInstallManager.simpleCheckAndInstall	INFO	Last check was: 1425630495 seconds ago, minimum seconds: 86400
+1425630495126	GMPInstallManager._getURL	INFO	Using url: https://aus4.mozilla.org/update/3/GMP/%VERSION%/%BUILD_ID%/%BUILD_TARGET%/%LOCALE%/%CHANNEL%/%OS_VERSION%/%DISTRIBUTION%/%DISTRIBUTION_VERSION%/update.xml
+1425630495126	GMPInstallManager._getURL	INFO	Using url (with replacement): https://aus4.mozilla.org/update/3/GMP/33.0/20141013200324/Linux_x86_64-gcc3/en-US/release/Linux%203.16.0-31-generic%20(GTK%202.24.25)/canonical/1.0/update.xml
+1425630495127	GMPInstallManager.checkForAddons	INFO	sending request to: https://aus4.mozilla.org/update/3/GMP/33.0/20141013200324/Linux_x86_64-gcc3/en-US/release/Linux%203.16.0-31-generic%20(GTK%202.24.25)/canonical/1.0/update.xml
+1425630496182	GMPInstallManager.onLoadXML	INFO	request completed downloading document
+1425630496183	GMPInstallManager.onLoadXML	INFO	allowNonBuiltIn: false
+1425630496187	GMPInstallManager.simpleCheckAndInstall	INFO	Found 1 addons advertised.
+1425630496187	GMPInstallManager.simpleCheckAndInstall	INFO	Found addon: gmp-gmpopenh264 (isValid: true, isInstalled: false, isOpenH264: true, hashFunction: sha512, hashValue: 737e49f25aace93d470f1a781c69c3cdd0c9db21afe62221fb171d38a31d8a2b55af01a69cd00e7352e7a34aa450b6b85729509f81582379394785b37997a423, size: 385889)
+1425630497154	GMPInstallManager.simpleCheckAndInstall	INFO	Addon installed successfully: gmp-gmpopenh264 (isValid: true, isInstalled: true, isOpenH264: true, hashFunction: sha512, hashValue: 737e49f25aace93d470f1a781c69c3cdd0c9db21afe62221fb171d38a31d8a2b55af01a69cd00e7352e7a34aa450b6b85729509f81582379394785b37997a423, size: 385889)
+compiz (core) - Info: Loading plugin: core
+compiz (core) - Info: Starting plugin: core
+compiz (core) - Info: Loading plugin: ccp
+compiz (core) - Info: Starting plugin: ccp
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity
+compiz (core) - Info: Loading plugin: composite
+compiz (core) - Info: Starting plugin: composite
+compiz (core) - Info: Loading plugin: opengl
+compiz (core) - Info: Unity is not supported by your hardware. Enabling software rendering instead (slow).
+compiz (core) - Info: Unity is fully supported by your hardware.
+compiz (core) - Info: Starting plugin: opengl
+Compiz (opengl) - Info: GLX_EXT_buffer_age is supported
+compiz (core) - Info: Loading plugin: resize
+compiz (core) - Info: Starting plugin: resize
+compiz (core) - Info: Loading plugin: snap
+compiz (core) - Info: Starting plugin: snap
+compiz (core) - Info: Loading plugin: regex
+compiz (core) - Info: Starting plugin: regex
+compiz (core) - Info: Loading plugin: copytex
+compiz (core) - Info: Starting plugin: copytex
+compiz (core) - Info: Loading plugin: compiztoolbox
+compiz (core) - Info: Starting plugin: compiztoolbox
+compiz (core) - Info: Loading plugin: imgpng
+compiz (core) - Info: Starting plugin: imgpng
+compiz (core) - Info: Loading plugin: commands
+compiz (core) - Info: Starting plugin: commands
+compiz (core) - Info: Loading plugin: place
+compiz (core) - Info: Starting plugin: place
+compiz (core) - Info: Loading plugin: unitymtgrabhandles
+compiz (core) - Info: Starting plugin: unitymtgrabhandles
+compiz (core) - Info: Loading plugin: animation
+compiz (core) - Info: Starting plugin: animation
+compiz (core) - Info: Loading plugin: session
+compiz (core) - Info: Starting plugin: session
+compiz (core) - Info: Loading plugin: mousepoll
+compiz (core) - Info: Starting plugin: mousepoll
+compiz (core) - Info: Loading plugin: grid
+compiz (core) - Info: Starting plugin: grid
+compiz (core) - Info: Loading plugin: wall
+compiz (core) - Info: Starting plugin: wall
+compiz (core) - Info: Loading plugin: move
+compiz (core) - Info: Starting plugin: move
+compiz (core) - Info: Loading plugin: vpswitch
+compiz (core) - Info: Starting plugin: vpswitch
+compiz (core) - Info: Loading plugin: workarounds
+compiz (core) - Info: Starting plugin: workarounds
+compiz (core) - Info: Loading plugin: expo
+compiz (core) - Info: Starting plugin: expo
+compiz (core) - Info: Loading plugin: fade
+compiz (core) - Info: Starting plugin: fade
+compiz (core) - Info: Loading plugin: ezoom
+compiz (core) - Info: Starting plugin: ezoom
+compiz (core) - Info: Loading plugin: scale
+compiz (core) - Info: Starting plugin: scale
+compiz (core) - Info: Loading plugin: unityshell
+compiz (core) - Info: Starting plugin: unityshell
+WARN  2015-03-06 14:28:18 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.Shell' yet as we don't have a connection, waiting for it...
+WARN  2015-03-06 14:28:18 unity.debug.interface DebugDBusInterface.cpp:216 Unable to load entry point in libxpathselect: libxpathselect.so.1.4: cannot open shared object file: No such file or directory -- full D-Bus introspection will not be available
+WARN  2015-03-06 14:28:18 xim.controller XIMController.cpp:103 IBus natively supported.
+WARN  2015-03-06 14:28:18 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Launcher' yet as we don't have a connection, waiting for it...
+WARN  2015-03-06 14:28:18 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Dash' yet as we don't have a connection, waiting for it...
+WARN  2015-03-06 14:28:18 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.SessionManager.EndSessionDialog' yet as we don't have a connection, waiting for it...
+WARN  2015-03-06 14:28:18 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Session' yet as we don't have a connection, waiting for it...
+WARN  2015-03-06 14:28:18 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.ScreenSaver' yet as we don't have a connection, waiting for it...
+WARN  2015-03-06 14:28:18 unityo (appinfo2) <unknown>:0 g_settings_set_value: value for key 'visual-bell-type' in schema 'org.gnome.desktop.wm.preferences' is outside of valid range
+WARN  2015-03-06 14:28:18 unityo (appinfo2) <unknown>:0 g_settings_set_value: value for key 'visual-bell-type' in schema 'org.gnome.desktop.wm.preferences' is outside of valid range
+WARN  2015-03-06 14:28:19 unityo (appinfo2) <unknown>:0 g_settings_set_value: value for key 'visual-bell-type' in schema 'org.gnome.desktop.wm.preferences' is outside of valid range
+ERROR 2015-03-06 14:28:19 unity.glib.dbus.server GLibDBusServer.cpp:524 DBus name lost 'org.gnome.Shell'
+ERROR 2015-03-06 14:28:19 unity.glib.dbus.server GLibDBusServer.cpp:524 DBus name lost 'com.canonical.Unity'
+WARN  2015-03-06 14:28:24 unity.dash.gsettingsscopereader GSettingsScopes.cpp:108 Error fetching protocol metadata for scope: social.scope : Valid key file could not be found in search dirs
+WARN  2015-03-06 14:28:25 unity.iconloader IconLoader.cpp:755 Unable to load icon file:/// at size -1x22: Can't open directory
+
+(gnome-terminal:3566): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x100455c!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x100455c!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x100455c!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x100455c!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x100455c!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000ba1!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000293!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000288!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000288!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000288!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+[1:1:0306/143754:ERROR:image_metadata_extractor.cc(111)] Couldn't load libexif.
+Gtk-Message: Failed to load module "overlay-scrollbar"
+Gtk-Message: Failed to load module "unity-gtk-module"
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[18551:18551:0306/143754:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+Gtk-Message: Failed to load module "canberra-gtk-module"
+GLib-GIO-Message: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+[18590:18590:0306/143756:ERROR:gl_implementation_osmesa.cc(22)] Failed to load libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[18590:18590:0306/143756:ERROR:gpu_child_thread.cc(146)] Exiting GPU process due to errors during initialization
+[18601:18601:0306/143756:ERROR:image_metadata_extractor.cc(111)] Couldn't load libexif.
+[18602:18602:0306/143756:ERROR:image_metadata_extractor.cc(111)] Couldn't load libexif.
+[18604:18604:0306/143756:ERROR:image_metadata_extractor.cc(111)] Couldn't load libexif.
+[18605:18605:0306/143756:ERROR:image_metadata_extractor.cc(111)] Couldn't load libexif.
+WARN  2015-03-06 14:37:56 unityct(io) <unknown>:0 Desktop file '/usr/share/applications/google-chrome.desktop' is using a deprecated format for its actions that will be dropped soon.
+[18606:18606:0306/143756:ERROR:image_metadata_extractor.cc(111)] Couldn't load libexif.
+[18551:18551:0306/143757:ERROR:extension_downloader.cc(696)] Invalid URL: '' for extension nmmhkkegccagdldgiimedpiccmgmieda
+[18664:18664:0306/143757:ERROR:image_metadata_extractor.cc(111)] Couldn't load libexif.
+[18667:18667:0306/143757:ERROR:image_metadata_extractor.cc(111)] Couldn't load libexif.
+[18763:18763:0306/143757:ERROR:image_metadata_extractor.cc(111)] Couldn't load libexif.
+[18837:18837:0306/143757:ERROR:image_metadata_extractor.cc(111)] Couldn't load libexif.
+[18911:18911:0306/143757:ERROR:image_metadata_extractor.cc(111)] Couldn't load libexif.
+[18914:18914:0306/143757:ERROR:image_metadata_extractor.cc(111)] Couldn't load libexif.
+[18988:18988:0306/143758:ERROR:image_metadata_extractor.cc(111)] Couldn't load libexif.
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+[18551:18584:0306/143803:ERROR:channel.cc(305)] RawChannel read error (connection broken)
+ERROR 2015-03-06 14:38:19 unity.settings UnitySettings.cpp:250 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2015-03-06 14:38:20 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2015-03-06 14:38:20 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2015-03-06 14:38:20 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2015-03-06 14:38:20 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2015-03-06 14:38:20 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2015-03-06 14:38:20 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2015-03-06 14:38:20 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2015-03-06 14:38:20 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2015-03-06 14:38:20 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2015-03-06 14:38:20 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2015-03-06 14:38:20 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2015-03-06 14:38:20 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2015-03-06 14:38:20 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2015-03-06 14:38:23 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2015-03-06 14:38:23 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2015-03-06 14:38:23 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2015-03-06 14:38:23 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2015-03-06 14:38:23 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2015-03-06 14:38:26 unity_is_valid (res, icon) <unknown>:0 gdk_pixbuf_composite: assertion 'dest_y >= 0 && dest_y + dest_height <= dest->height' failed
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000288!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000288!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+WARN  2015-03-06 14:38:33 unityct(io) <unknown>:0 Desktop file '/usr/share/applications/google-chrome.desktop' is using a deprecated format for its actions that will be dropped soon.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000293!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+[1:1:0306/143835:ERROR:image_metadata_extractor.cc(111)] Couldn't load libexif.
+Gtk-Message: Failed to load module "overlay-scrollbar"
+Gtk-Message: Failed to load module "unity-gtk-module"
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+[19513:19513:0306/143835:ERROR:browser_main_loop.cc(198)] GTK theme error: Unable to locate theme engine in module_path: "murrine",
+Gtk-Message: Failed to load module "canberra-gtk-module"
+GLib-GIO-Message: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+[19548:19548:0306/143835:ERROR:gl_implementation_osmesa.cc(22)] Failed to load libGL.so.1: libGL.so.1: cannot open shared object file: No such file or directory
+[19548:19548:0306/143835:ERROR:gpu_child_thread.cc(146)] Exiting GPU process due to errors during initialization
+getrlimit(RLIMIT_NOFILE) failed
+ALSA lib conf.c:3325:(snd_config_hooks_call) Cannot open shared library libasound_module_conf_pulse.so
+ALSA lib control.c:953:(snd_ctl_open_noupdate) Invalid CTL hw:0
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/143836:ERROR:extension_downloader.cc(696)] Invalid URL: '' for extension nmmhkkegccagdldgiimedpiccmgmieda
+getrlimit(RLIMIT_NOFILE) failed
+[19662:19662:0306/143836:ERROR:image_metadata_extractor.cc(111)] Couldn't load libexif.
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/143839:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143839:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143840:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143840:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143840:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143840:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143840:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143840:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143840:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143841:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143841:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143841:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143841:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143842:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143842:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143842:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143842:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143842:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143842:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143842:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143843:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143843:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143843:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143843:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143843:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143843:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143844:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143844:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143844:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143844:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19679:0306/143856:ERROR:get_updates_processor.cc(240)] PostClientToServerMessage() failed during GetUpdates
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19545:0306/143857:ERROR:channel.cc(305)] RawChannel read error (connection broken)
+[19513:19513:0306/143907:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/143907:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143907:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143908:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143908:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143908:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143908:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143908:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143908:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143909:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143909:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143909:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143909:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143909:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143909:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143909:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+[19513:19513:0306/143918:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143918:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143919:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143919:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143919:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143919:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143919:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143919:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143919:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143919:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143919:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143920:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143920:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143920:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143920:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143920:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143920:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143920:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143920:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143921:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143921:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143921:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143921:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143921:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143921:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143921:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143921:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143922:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143922:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143922:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143922:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143922:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143922:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143922:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143922:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143922:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143923:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143923:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143923:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143923:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143923:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143923:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143924:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143924:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143925:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143925:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143925:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143925:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143925:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143925:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143926:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143926:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143926:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143926:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143927:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143927:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143927:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/143932:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/143933:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143933:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143933:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143933:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143933:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/143947:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/143947:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143947:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143947:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143948:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143948:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143949:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143949:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143949:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143949:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143949:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143950:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143950:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143950:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143951:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143952:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143952:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143952:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143952:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143952:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143952:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143952:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143953:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143953:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143953:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143953:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143953:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143953:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143953:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143955:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143955:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143955:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143955:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143955:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143955:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143956:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143956:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143956:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143956:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143958:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143958:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143958:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143958:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143958:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143958:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143958:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143958:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143959:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143959:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143959:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143959:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143959:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/143959:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144000:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144000:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144000:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144000:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144001:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144001:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144002:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144002:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144002:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144002:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144003:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144003:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144003:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144004:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144004:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/144107:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/144108:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144108:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144108:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144108:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144108:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144108:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144108:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144108:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144109:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144109:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144109:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144109:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144109:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144109:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144110:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144110:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144110:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/144127:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144127:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144127:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/144127:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144127:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144127:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144127:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144127:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144128:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144128:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144128:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144128:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144128:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144128:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144128:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144128:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144128:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144129:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144129:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144129:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144129:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19545:0306/144129:ERROR:channel.cc(305)] RawChannel read error (connection broken)
+[19513:19513:0306/144220:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144220:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/144220:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144221:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144221:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144221:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144221:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144221:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144222:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144222:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144222:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144222:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144222:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144222:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144223:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144224:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144224:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144224:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144224:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144225:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144226:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144227:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/144440:ERROR:extension_downloader.cc(696)] Invalid URL: '' for extension nmmhkkegccagdldgiimedpiccmgmieda
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/144635:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/144635:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144635:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144635:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144635:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144635:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144635:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144635:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144635:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144636:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144636:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144637:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144638:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144638:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144638:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144638:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/144638:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+[19513:19513:0306/145016:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145016:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1006a2f!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+[19513:19513:0306/145644:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145644:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145644:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145644:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145645:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145645:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145645:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145648:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145648:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145648:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145649:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145649:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145653:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145653:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145653:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145653:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145654:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145654:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145655:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145657:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145657:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145657:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145658:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145700:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145700:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145700:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145701:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145701:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145701:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145703:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145703:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145703:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145703:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145703:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145703:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145703:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145704:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145704:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145704:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145704:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145704:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145704:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145706:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145706:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145706:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145706:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145711:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145711:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145711:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145711:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145711:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145711:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145712:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/145712:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/150006:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150006:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150007:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150007:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150009:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/150015:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150015:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/150015:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150016:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150016:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150016:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150017:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150017:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150017:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150017:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150017:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150018:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150018:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150018:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150018:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150018:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150018:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150018:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150019:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150019:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150020:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150020:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150020:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150020:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150020:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150021:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150021:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150022:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150022:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150022:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150022:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150023:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150023:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150023:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150023:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150024:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150024:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150026:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150026:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150026:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150026:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150027:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150027:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150027:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150027:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150027:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150027:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150028:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150028:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150029:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150029:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150029:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150029:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150029:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150029:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150029:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150030:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150030:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150030:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150030:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150031:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150031:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150031:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150031:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150218:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150218:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150219:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150219:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150219:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150219:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150219:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150220:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150220:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/150220:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150220:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150221:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150221:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150222:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150222:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150222:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150223:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150223:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150223:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150228:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/150229:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150229:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150229:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150229:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150229:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150230:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150231:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150231:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150231:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150231:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150231:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150231:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150232:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150232:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150233:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150233:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150233:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150233:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150233:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150233:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150233:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150234:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19545:0306/150234:ERROR:channel.cc(305)] RawChannel read error (connection broken)
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+[19513:19513:0306/150359:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150400:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150400:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/150401:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150401:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150402:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150403:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150403:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150403:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150404:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150404:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150404:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150404:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150405:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150405:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150405:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150406:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150406:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150406:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150406:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150407:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150407:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150407:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150407:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150407:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150408:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150408:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150408:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/150412:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/150412:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150413:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150413:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150413:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150414:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150414:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150415:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150415:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150415:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150415:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150415:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19545:0306/150415:ERROR:channel.cc(305)] RawChannel read error (connection broken)
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/150459:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150459:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/150459:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150459:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150459:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150500:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150500:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150500:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150500:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150500:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150501:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150501:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150501:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150501:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150501:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150501:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150501:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/150549:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150549:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/150549:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150549:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150550:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150550:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150550:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150550:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150550:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150550:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150550:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150550:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150550:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150551:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150551:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150551:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150552:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150552:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150552:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150553:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150553:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150553:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150553:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150553:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150553:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150553:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150554:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150554:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150554:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150554:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150555:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150555:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150555:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150555:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150555:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150556:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150556:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150556:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/150557:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+compiz (core) - Warn: unhandled ConfigureNotify on 0x10003bd!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/151405:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/151405:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151405:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151408:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151408:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151408:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151408:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151408:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151408:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151408:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151409:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151409:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19545:0306/151409:ERROR:channel.cc(305)] RawChannel read error (connection broken)
+[19513:19513:0306/151411:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151411:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151412:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151412:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151413:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151413:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151413:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151413:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151413:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151413:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151414:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151414:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151414:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151414:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151414:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151414:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151415:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151415:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151415:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151416:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151416:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151416:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151416:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151416:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151416:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151416:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151416:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151416:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151416:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151417:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151417:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151448:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151448:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151448:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151449:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151449:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151449:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151449:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151449:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151449:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151450:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151450:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151450:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151516:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151516:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/151517:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151517:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151517:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/151520:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151520:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151521:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151521:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151541:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151541:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151550:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151550:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151550:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151550:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151550:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151551:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151551:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151551:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151551:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151551:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151551:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151551:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151552:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151552:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151552:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151552:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151552:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151552:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151552:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151552:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151552:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151552:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151553:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/151618:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/151618:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151618:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151618:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151619:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151619:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151619:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151619:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151619:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151619:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151619:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19545:0306/151619:ERROR:channel.cc(305)] RawChannel read error (connection broken)
+getrlimit(RLIMIT_NOFILE) failed
+Fontconfig error: Cannot load default config file
+[19513:19513:0306/151622:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/151622:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151622:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151622:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151622:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151622:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151622:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151622:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151622:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151622:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151622:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151624:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151624:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151624:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151624:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151624:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151625:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151625:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151625:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151625:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151625:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151626:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151626:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151626:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151626:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151626:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151627:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151627:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151627:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151627:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151627:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151627:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/151848:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/151848:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151849:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151849:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/151849:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+ERROR 2015-03-06 15:19:58 unity_is_valid (res, icon) <unknown>:0 gdk_pixbuf_composite: assertion 'dest_y >= 0 && dest_y + dest_height <= dest->height' failed
+[19513:19513:0306/152636:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/152636:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152636:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152637:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152637:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152638:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152638:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152638:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152638:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152638:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152638:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152638:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152638:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152639:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152639:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152639:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152639:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152639:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152639:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152639:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152639:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152640:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/152644:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152644:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/152656:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152656:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+[19513:19513:0306/152657:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152658:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152658:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152658:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152658:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152658:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152658:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152658:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152659:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152659:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152659:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152659:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+getrlimit(RLIMIT_NOFILE) failed
+Fontconfig error: Cannot load default config file
+[19513:19513:0306/152706:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152706:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152707:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152707:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152709:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152709:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152709:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152709:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152709:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152709:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152712:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152712:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152712:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152713:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152713:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152713:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152713:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152713:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152714:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152714:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152714:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152714:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+[19513:19513:0306/152714:ERROR:browser_main_loop.cc(216)] Gdk: gdk_window_set_user_time called on non-toplevel
+
+compiz (core) - Warn: unhandled ConfigureNotify on 0x1000293!
+compiz (core) - Warn: this should never happen. you should probably file a bug about this.

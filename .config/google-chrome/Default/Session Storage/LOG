@@ -1,0 +1,32 @@
+2015/03/06-14:38:50.975 19539 Reusing MANIFEST /home/kostya/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2015/03/06-14:38:50.975 19539 Recovering log #3
+2015/03/06-14:38:50.975 19539 Level-0 table #3: started
+2015/03/06-14:38:51.014 19539 Level-0 table #3: 886 bytes OK
+2015/03/06-14:38:51.022 19539 Delete type=0 #3
+2015/03/06-14:56:09.104 27654 Level-0 table #6: started
+2015/03/06-14:56:09.152 27654 Level-0 table #6: 994794 bytes OK
+2015/03/06-14:56:09.161 27654 Delete type=0 #4
+2015/03/06-14:58:56.801 27654 Compacting 2@0 + 0@1 files
+2015/03/06-14:58:56.850 27654 Generated table #7: 105 keys, 789127 bytes
+2015/03/06-14:58:56.850 27654 Compacted 2@0 + 0@1 files => 789127 bytes
+2015/03/06-14:58:56.858 27654 compacted to: files[ 0 1 0 0 0 0 0 ]
+2015/03/06-14:58:56.858 27654 Delete type=2 #3
+2015/03/06-14:58:56.858 27654 Delete type=2 #6
+2015/03/06-15:07:25.752 27654 Level-0 table #9: started
+2015/03/06-15:07:25.802 27654 Level-0 table #9: 1026490 bytes OK
+2015/03/06-15:07:25.812 27654 Delete type=0 #5
+2015/03/06-15:08:23.782 27654 Compacting 1@0 + 1@1 files
+2015/03/06-15:08:23.868 27654 Generated table #10: 223 keys, 1659537 bytes
+2015/03/06-15:08:23.868 27654 Compacted 1@0 + 1@1 files => 1659537 bytes
+2015/03/06-15:08:23.876 27654 compacted to: files[ 0 1 0 0 0 0 0 ]
+2015/03/06-15:08:23.876 27654 Delete type=2 #7
+2015/03/06-15:08:23.876 27654 Delete type=2 #9
+2015/03/06-15:25:04.758 27654 Level-0 table #12: started
+2015/03/06-15:25:04.810 27654 Level-0 table #12: 691232 bytes OK
+2015/03/06-15:25:04.820 27654 Delete type=0 #8
+2015/03/06-15:25:20.772 27654 Compacting 1@0 + 1@1 files
+2015/03/06-15:25:21.001 27654 Generated table #13: 261 keys, 1911980 bytes
+2015/03/06-15:25:21.001 27654 Compacted 1@0 + 1@1 files => 1911980 bytes
+2015/03/06-15:25:21.009 27654 compacted to: files[ 0 1 0 0 0 0 0 ]
+2015/03/06-15:25:21.009 27654 Delete type=2 #12
+2015/03/06-15:25:21.010 27654 Delete type=2 #10

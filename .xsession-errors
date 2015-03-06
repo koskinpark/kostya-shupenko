@@ -1,0 +1,58 @@
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+Script for ibus started at run_im.
+Script for auto started at run_im.
+Script for default started at run_im.
+upstart: at-spi2-registryd main process ended, respawning
+upstart: at-spi2-registryd main process ended, respawning
+upstart: at-spi2-registryd main process ended, respawning
+upstart: at-spi2-registryd main process ended, respawning
+upstart: at-spi2-registryd main process ended, respawning
+upstart: at-spi2-registryd main process ended, respawning
+upstart: at-spi2-registryd main process ended, respawning
+upstart: at-spi2-registryd main process ended, respawning
+upstart: at-spi2-registryd main process ended, respawning
+upstart: at-spi2-registryd main process ended, respawning
+upstart: at-spi2-registryd respawning too fast, stopped
+upstart: unity7 main process (2352) killed by SEGV signal
+upstart: unity7 main process ended, respawning
+upstart: upstart-event-bridge main process (2154) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-dbus-session-bridge main process (2173) terminated with status 1
+upstart: upstart-dbus-session-bridge main process ended, respawning
+upstart: upstart-dbus-system-bridge main process (2174) terminated with status 1
+upstart: upstart-dbus-system-bridge main process ended, respawning
+upstart: upstart-file-bridge main process (2176) terminated with status 1
+upstart: upstart-file-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (6221) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-file-bridge main process (6227) terminated with status 1
+upstart: upstart-file-bridge main process ended, respawning
+upstart: upstart-dbus-session-bridge main process (6231) terminated with status 1
+upstart: upstart-dbus-session-bridge main process ended, respawning
+upstart: upstart-dbus-system-bridge main process (6232) terminated with status 1
+upstart: upstart-dbus-system-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (6305) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-dbus-session-bridge main process (6312) terminated with status 1
+upstart: upstart-dbus-session-bridge main process ended, respawning
+upstart: upstart-dbus-system-bridge main process (6314) terminated with status 1
+upstart: upstart-dbus-system-bridge main process ended, respawning
+upstart: upstart-file-bridge main process (6316) terminated with status 1
+upstart: upstart-file-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (10124) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-dbus-session-bridge main process (10133) terminated with status 1
+upstart: upstart-dbus-session-bridge main process ended, respawning
+upstart: upstart-file-bridge main process (10135) terminated with status 1
+upstart: upstart-file-bridge main process ended, respawning
+upstart: upstart-dbus-system-bridge main process (10137) terminated with status 1
+upstart: upstart-dbus-system-bridge main process ended, respawning
+upstart: upstart-event-bridge main process (10156) terminated with status 1
+upstart: upstart-event-bridge main process ended, respawning
+upstart: upstart-dbus-session-bridge main process (10163) terminated with status 1
+upstart: upstart-dbus-session-bridge main process ended, respawning
+upstart: upstart-dbus-system-bridge main process (10165) terminated with status 1
+upstart: upstart-dbus-system-bridge main process ended, respawning
+upstart: upstart-file-bridge main process (10167) terminated with status 1
+upstart: upstart-file-bridge main process ended, respawning

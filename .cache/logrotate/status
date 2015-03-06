@@ -1,0 +1,15 @@
+logrotate state -- version 2
+"/home/kostya/.cache/upstart/gnome-session-Unity.log" 2015-3-6-14:0:0
+"/home/kostya/.cache/upstart/indicator-sound.log" 2015-3-6-14:0:0
+"/home/kostya/.cache/upstart/window-stack-bridge.log" 2015-3-6-14:0:0
+"/home/kostya/.cache/upstart/im-config.log" 2015-3-6-14:0:0
+"/home/kostya/.cache/upstart/upstart-event-bridge.log" 2015-3-6-14:0:0
+"/home/kostya/.cache/upstart/indicator-bluetooth.log" 2015-3-6-14:0:0
+"/home/kostya/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_compiz.1000.crash.log" 2015-3-6-14:0:0
+"/home/kostya/.cache/upstart/unity7.log" 2015-3-6-14:0:0
+"/home/kostya/.cache/upstart/update-notifier-release.log" 2015-3-6-14:0:0
+"/home/kostya/.cache/upstart/unity-panel-service.log" 2015-3-6-14:0:0
+"/home/kostya/.cache/upstart/unity-settings-daemon.log" 2015-3-6-14:0:0
+"/home/kostya/.cache/upstart/indicator-printers.log" 2015-3-6-14:0:0
+"/home/kostya/.cache/upstart/dbus.log" 2015-3-6-14:0:0
+"/home/kostya/.cache/upstart/ssh-agent.log" 2015-3-6-14:0:0

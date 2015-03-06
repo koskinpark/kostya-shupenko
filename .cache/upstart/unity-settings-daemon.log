@@ -1,0 +1,7 @@
+
+** (unity-settings-daemon:2337): WARNING **: Attempted to init Xsync, found version 3.1 error base 134 event base 83
+
+
+(unity-settings-daemon:2337): AccountsService-WARNING **: ActUserManager: user (null) has no username (object path: /org/freedesktop/Accounts/User1000, uid: 0)
+
+(unity-settings-daemon:2337): AccountsService-WARNING **: ActUserManager: user (null) has no username (object path: /org/freedesktop/Accounts/User1000, uid: 0)

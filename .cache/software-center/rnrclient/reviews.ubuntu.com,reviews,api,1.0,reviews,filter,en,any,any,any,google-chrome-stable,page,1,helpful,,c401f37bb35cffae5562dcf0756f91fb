@@ -1,0 +1,17 @@
+status: 200
+content-length: 2
+via: 1.1 papeda.canonical.com:3128 (squid/2.7.STABLE7)
+content-location: http://reviews.ubuntu.com/reviews/api/1.0/reviews/filter/en/any/any/any/google-chrome-stable/page/1/helpful/
+x-cache: HIT from papeda.canonical.com
+age: 93
+expires: Fri, 06 Mar 2015 08:33:10 GMT
+vary: Accept
+server: Apache/2.2.22 (Ubuntu)
+last-modified: Fri, 06 Mar 2015 08:28:10 GMT
+connection: close
+cache-control: max-age=300
+date: Fri, 06 Mar 2015 08:28:10 GMT
+content-type: application/json; charset=utf-8
+x-cache-lookup: HIT from papeda.canonical.com:3128
+
+[]

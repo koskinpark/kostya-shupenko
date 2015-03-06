@@ -1,0 +1,20 @@
+status: 200
+content-length: 2
+via: 1.1 papeda.canonical.com:3128 (squid/2.7.STABLE7)
+x-cache: HIT from papeda.canonical.com
+content-language: en
+age: 178
+expires: Fri, 06 Mar 2015 08:10:00 GMT
+vary: Authorization,Accept-Language,Cookie
+server: Apache/2.2.22 (Ubuntu)
+last-modified: Fri, 06 Mar 2015 08:00:00 GMT
+connection: close
+etag: "d751713988987e9331980363e24189ce"
+x-bzr-revision-number: 1811
+cache-control: max-age=600
+date: Fri, 06 Mar 2015 08:24:46 GMT
+content-type: application/json; charset=utf-8
+x-cache-lookup: HIT from papeda.canonical.com:3128
+content-location: http://software-center.ubuntu.com/api/2.0/applications/en/ubuntu/utopic/amd64/
+
+[]

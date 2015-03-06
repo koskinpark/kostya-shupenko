@@ -1,0 +1,21 @@
+status: 200
+content-length: 102
+via: 1.1 papeda.canonical.com:3128 (squid/2.7.STABLE7)
+content-location: https://rec.ubuntu.com/api/1.0/recommend_app/google-chrome-stable/
+x-cache: HIT from papeda.canonical.com
+age: 96
+expires: Fri, 06 Mar 2015 08:27:56 GMT
+server: Apache/2.2.22 (Ubuntu)
+last-modified: Fri, 06 Mar 2015 08:22:56 GMT
+etag: "c7814f186428e6812237990e634ebc80"
+strict-transport-security: max-age=2592000
+cache-control: max-age=300
+date: Fri, 06 Mar 2015 08:28:06 GMT
+content-type: application/json; charset=utf-8
+x-cache-lookup: HIT from papeda.canonical.com:3128
+
+{
+    "rid": "6009cbc707eda2a3f92d5164fa0caeb7", 
+    "data": [], 
+    "app": "google-chrome-stable"
+}

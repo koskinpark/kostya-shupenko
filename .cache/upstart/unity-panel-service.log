@@ -1,0 +1,18 @@
+
+(unity-panel-service:2348): Indicator-Appmenu-WARNING **: Already have a menu for window ID 58720437 with path /com/canonical/menu/38000B5 from :1.89, unregistering that one
+
+(unity-panel-service:2348): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+
+(unity-panel-service:2348): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+
+(unity-panel-service:2348): GLib-GObject-WARNING **: g_object_weak_unref: couldn't find weak ref 0x7fc587b845f0(0x14bd1f0)
+
+(unity-panel-service:2348): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+
+(unity-panel-service:2348): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+
+(unity-panel-service:2348): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+
+(unity-panel-service:2348): Indicator-Appmenu-WARNING **: Already have a menu for window ID 58725198 with path /com/canonical/menu/380134E from :1.89, unregistering that one
+
+(unity-panel-service:2348): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed

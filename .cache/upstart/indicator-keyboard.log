@@ -1,0 +1,2 @@
+
+(gkbd-keyboard-display:17710): Gtk-CRITICAL **: gtk_widget_set_allocation: assertion 'gtk_widget_get_visible (widget) || gtk_widget_is_toplevel (widget)' failed

@@ -1,0 +1,185 @@
+gnome-session[2343]: WARNING: Error getting login monitor: -2
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-i1ihLB
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-i1ihLB
+SSH_AUTH_SOCK=/run/user/1000/keyring-i1ihLB/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring-i1ihLB/gpg:0:1
+SSH_AUTH_SOCK=/run/user/1000/keyring-i1ihLB/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring-i1ihLB/gpg:0:1
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-i1ihLB
+SSH_AUTH_SOCK=/run/user/1000/keyring-i1ihLB/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring-i1ihLB/gpg:0:1
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-i1ihLB
+SSH_AUTH_SOCK=/run/user/1000/keyring-i1ihLB/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring-i1ihLB/gpg:0:1
+
+(process:2550): indicator-application-service-WARNING **: Unable to get watcher name 'org.kde.StatusNotifierWatcher'
+
+(process:2550): indicator-application-service-WARNING **: Name Lost
+
+(nm-applet:2566): nm-applet-WARNING **: Could not find ShellVersion property on org.gnome.Shell after 5 tries
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(zeitgeist-datahub:3076): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(zeitgeist-datahub:3076): GLib-GObject-CRITICAL **: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+Error loading .desktop file /usr/share/applications/gnome-deja-dup-panel.desktop: constructor returned NULL
+Error loading .desktop file /usr/share/app-install/desktop/deja-dup:gnome-deja-dup-panel.desktop: constructor returned NULL
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nautilus:2558): GLib-GObject-CRITICAL **: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+
+(nautilus:2558): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+** (zeitgeist-datahub:3076): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/kostya/Downloads/.com.google.Chrome.rDhtHr: Error when getting information for file '/home/kostya/Downloads/.com.google.Chrome.rDhtHr': No such file or directory
+
+** (zeitgeist-datahub:3076): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): GLib-GIO-CRITICAL **: g_file_get_path: assertion 'G_IS_FILE (file)' failed
+
+(nautilus:2558): Gtk-CRITICAL **: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(nautilus:2558): Gtk-CRITICAL **: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(nautilus:2558): Gtk-CRITICAL **: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(nautilus:2558): Gtk-CRITICAL **: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(nautilus:2558): Gtk-CRITICAL **: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(nautilus:2558): Gtk-CRITICAL **: gtk_container_foreach: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
+
+(nm-applet:2566): GLib-GObject-WARNING **: /build/buildd/glib2.0-2.42.0/./gobject/gsignal.c:3101: signal id '231' is invalid for instance '0x1586f60'
