@@ -1,0 +1,1 @@
+<div></div><span>Привет <?php print $username ?>!</span></div>
